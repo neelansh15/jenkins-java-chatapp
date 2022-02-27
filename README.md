@@ -58,7 +58,7 @@ It is a light weight java desktop application that allows two users to chat amon
 ## Made by:
 
 1. 1911089 - Vedant Mahadik
-2. 1911109 - Burhanuddin Rangwala
-3. 1911093 - Neelansh Mathur
+2. 1911093 - Neelansh Mathur
+3. 1911109 - Burhanuddin Rangwala
 
 ![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)
